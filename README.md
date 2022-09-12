@@ -32,7 +32,7 @@
 
 ### CV
 - 📝 [Curriculum Vitae English](https://drive.google.com/file/d/1Zsu0qRRyKSMX4Ji_CdFrnkpdKSDIddcO/view?usp=sharing)
-- 📝 [Curriculum Vitae Spanish](https://drive.google.com/file/d/1I8EH0s514A_dS9pXunaDYx-uOUqaGf9t/view?usp=sharing)
+- 📝 [Curriculum Vitae Spanish](https://drive.google.com/file/d/1sUiaROgEzMdnxBsdg4K6bzwnRmy0v94o/view?usp=sharing)
 
 
 
