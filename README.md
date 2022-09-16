@@ -31,7 +31,7 @@
 - 📫 How to reach me **Email: mauricio.corzo@yahoo.com**
 
 ### CV
-- 📝 [Curriculum Vitae English](https://docs.google.com/document/d/1F4ckarXiyEfrBsUwkB5RWcLhILxgyPIVx19Ggn0MUZI/edit?usp=sharing)
+- 📝 [Curriculum Vitae English](https://drive.google.com/file/d/1Zsu0qRRyKSMX4Ji_CdFrnkpdKSDIddcO/view?usp=sharing)
 - 📝 [Curriculum Vitae Spanish](https://drive.google.com/file/d/1sUiaROgEzMdnxBsdg4K6bzwnRmy0v94o/view?usp=sharing)
 
 
