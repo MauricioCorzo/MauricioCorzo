@@ -1,4 +1,4 @@
-![](https://visitcount.itsvg.in/api?id=MauricioCorzo&label=Profile%20Views&color=0&icon=0&pretty=false)
+[![](https://visitcount.itsvg.in/api?id=MauricioCorzo&label=Profile%20Views&color=0&pretty=false)](https://visitcount.itsvg.in)
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif?cid=ecf05e47e6xu3cc5zuo74tp6uf1jp8jt113ldsdbubez0d0q&rid=giphy.gif&ct=s" width="370"/>
 </div>
