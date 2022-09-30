@@ -42,7 +42,7 @@
 # 📊 GitHub Stats:
 ![MauricioCorzo's Stats](https://github-readme-stats.vercel.app/api?username=MauricioCorzo&theme=dracula&show_icons=true&hide_border=false&count_private=true)<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MauricioCorzo&theme=dracula&show_icons=true&hide_border=false&count_private=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mauriciocorzo&theme=dracula&show_icons=true&hide_border=false&count_private=true)](https://git.io/streak-stats)
 <br/>
 ![MauricioCorzo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MauricioCorzo&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
